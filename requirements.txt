@@ -1,0 +1,6 @@
+vk_api
+sklearn
+scikit-image
+numpy
+
+
